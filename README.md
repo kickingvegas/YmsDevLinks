@@ -2,7 +2,7 @@
 
 Sometimes, you really don't need to leave Xcode to get to the web. **YmsDevLinks** lets you create a links page to put in **Xcode Organizer**. Edit your links page using Markdown syntax.
 
-Get access from within **Xcode Organizer** to:
+From within **Xcode Organizer**, get access to:
 * Apple Developer links (forums, bug reporter, videos, iTunes Connect)
 * Search Google and Stack Overflow
 * Add links your own projects
