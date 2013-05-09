@@ -1,9 +1,13 @@
-# YMS Dev Links
+# YmsDevLinks
 
-Building 
-Add a links page to your *Xcode Organizer*. Edit the links page using Markdown syntax.
+Sometimes, you really don't need to leave Xcode to get to the web. *YmsDevLinks* lets you create a links page to put in *Xcode Organizer*. Edit your links page using Markdown syntax.
 
+Get access from within Xcode Organizer to:
+* Apple Developer links (forums, bug tracker, iTunes Connect)
+* Search Google and Stack Overflow.
+* Add links your own projects
 
+*YmsDevLinks* takes advantage of [appledoc](http://gentlebytes.com/appledoc/) to build and install your links page into Xcode.
 
 # Requirements
 * Xcode 4.6.x
@@ -22,3 +26,4 @@ To delete the docset, open `Xcode preferences > Downloads > Documentation` to fi
 
 # Notes
 * To traverse back a web page in *Organizer*, you must use a right-mouse button click; not the back button in the bread crumb trail.
+
