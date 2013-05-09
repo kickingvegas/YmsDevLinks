@@ -1,15 +1,15 @@
 # YmsDevLinks
 
-Sometimes, you really don't need to leave Xcode to get to the web. *YmsDevLinks* lets you create a links page to put in *Xcode Organizer*. Edit your links page using Markdown syntax.
+Sometimes, you really don't need to leave Xcode to get to the web. **YmsDevLinks** lets you create a links page to put in **Xcode Organizer**. Edit your links page using Markdown syntax.
 
-Get access from within Xcode Organizer to:
+Get access from within **Xcode Organizer** to:
 * Apple Developer links (forums, bug tracker, iTunes Connect)
 * Search Google and Stack Overflow.
 * Add links your own projects
 
 ![YmsDevLinks in Xcode Organizer](http://kickingvegas.github.io/YmsDevLinks/images/ymsdevlinks.jpg)
 
-*YmsDevLinks* takes advantage of [appledoc](http://gentlebytes.com/appledoc/) to build and install your links page into Xcode.
+**YmsDevLinks** takes advantage of [appledoc](http://gentlebytes.com/appledoc/) to build and install your links page into Xcode.
 
 # Requirements
 * Xcode 4.6.x
