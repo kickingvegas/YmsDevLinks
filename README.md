@@ -4,7 +4,7 @@ Sometimes, you really don't need to leave Xcode to get to the web. **YmsDevLinks
 
 Get access from within **Xcode Organizer** to:
 * Apple Developer links (forums, bug reporter, videos, iTunes Connect)
-* Search Google and Stack Overflow.
+* Search Google and Stack Overflow
 * Add links your own projects
 
 ![YmsDevLinks in Xcode Organizer](http://kickingvegas.github.io/YmsDevLinks/images/ymsdevlinks.jpg)
