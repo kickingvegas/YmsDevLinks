@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Ymsdevlinks : YmsDevLinks" />
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Ymsdevlinks</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/kickingvegas/YmsDevLinks">View on GitHub</a>
+
+          <h1 id="project_title">Ymsdevlinks</h1>
+          <h2 id="project_tagline">YmsDevLinks</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/kickingvegas/YmsDevLinks/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/kickingvegas/YmsDevLinks/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>YmsDevLinks</h1>
+
+<p>Sometimes, you really don't need to leave Xcode to get to the web. <em>YmsDevLinks</em> lets you create a links page to put in <em>Xcode Organizer</em>. Edit your links page using Markdown syntax.</p>
+
+<p>Get access from within Xcode Organizer to:</p>
+
+<ul>
+<li>Apple Developer links (forums, bug tracker, iTunes Connect)</li>
+<li>Search Google and Stack Overflow.</li>
+<li>Add links your own projects</li>
+</ul><p><em>YmsDevLinks</em> takes advantage of <a href="http://gentlebytes.com/appledoc/">appledoc</a> to build and install your links page into Xcode.</p>
+
+<h1>Requirements</h1>
+
+<ul>
+<li>Xcode 4.6.x</li>
+<li>appledoc</li>
+</ul><h1>Installation</h1>
+
+<ol>
+<li>Install <a href="http://gentlebytes.com/appledoc/">appledoc</a>
+</li>
+<li>Edit <code>Makefile</code> to set the variables <code>PROJECT_NAME</code>, <code>COMPANY</code>, and <code>COMPANY_ID</code> to your preference.</li>
+<li>Edit <code>docs/index.md</code> using Markdown syntax to your preference.</li>
+<li>
+<p>Run <code>make</code> in the project directory to install the links docset into <em>Xcode Organizer</em>.</p>
+
+<pre><code> $ make
+</code></pre>
+</li>
+</ol><h1>Removal</h1>
+
+<p>To delete the docset, open <code>Xcode preferences &gt; Downloads &gt; Documentation</code> to find and delete the installed docset.</p>
+
+<h1>Notes</h1>
+
+<ul>
+<li>To traverse back a web page in <em>Organizer</em>, you must use a right-mouse button click; not the back button in the bread crumb trail.</li>
+</ul>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Ymsdevlinks maintained by <a href="https://github.com/kickingvegas">kickingvegas</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-9829097-6");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+
+  </body>
+</html>
