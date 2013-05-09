@@ -23,6 +23,9 @@ From within **Xcode Organizer**, get access to:
 
          $ make
 
+# Protip
+In **Organizer* change the docset search so that you only search the API versions you really [need](http://stackoverflow.com/questions/9523399/why-is-xcode-documentation-search-performance-so-terrible). 
+
 # Removal
 To delete the docset, open `Xcode preferences > Downloads > Documentation` to find and delete the installed docset.
 
