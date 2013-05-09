@@ -27,7 +27,7 @@ Get access from within **Xcode Organizer** to:
 To delete the docset, open `Xcode preferences > Downloads > Documentation` to find and delete the installed docset.
 
 # Notes
-* To traverse back a web page in *Organizer*, you must use a right-mouse button click; not the back button in the bread crumb trail.
+To traverse back a web page in **Organizer**, use a right-mouse button click - the back button in the **Organizer** bread-crumb trail only works on docset pages.
 
 # License
 
