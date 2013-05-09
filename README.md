@@ -19,12 +19,12 @@ From within **Xcode Organizer**, get access to:
 1. Install [appledoc](http://gentlebytes.com/appledoc/)
 1. Edit `Makefile` to set the variables `PROJECT_NAME`, `COMPANY`, and `COMPANY_ID` to your preference.
 1. Edit `docs/index.md` using Markdown syntax to your preference.
-1. Run `make` in the project directory to install the links docset into *Xcode Organizer*.
+1. Run `make` in the project directory to install the links docset into **Xcode Organizer**.
 
          $ make
 
 # Protip
-In **Organizer* change the docset search so that you only search the API versions you really [need](http://stackoverflow.com/questions/9523399/why-is-xcode-documentation-search-performance-so-terrible). 
+In **Organizer** change the docset search so that you only search the API versions you really [need](http://stackoverflow.com/questions/9523399/why-is-xcode-documentation-search-performance-so-terrible). 
 
 # Removal
 To delete the docset, open `Xcode preferences > Downloads > Documentation` to find and delete the installed docset.
