@@ -7,6 +7,8 @@ Get access from within Xcode Organizer to:
 * Search Google and Stack Overflow.
 * Add links your own projects
 
+![YmsDevLinks in Xcode Organizer](http://kickingvegas.github.io/YmsDevLinks/images/ymsdevlinks.jpg)
+
 *YmsDevLinks* takes advantage of [appledoc](http://gentlebytes.com/appledoc/) to build and install your links page into Xcode.
 
 # Requirements
