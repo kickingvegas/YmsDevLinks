@@ -1,5 +1,5 @@
 # YmsDevLinks
-Sometimes, you really don't need to leave Xcode to get to the web. **YmsDevLinks** lets you create your own links page in **Xcode Organizer**. Edit your page using Markdown syntax.
+Sometimes, you really don't need to leave **Xcode** to get to the web. **YmsDevLinks** lets you create your own links page in **Xcode Organizer**. Edit your page using Markdown syntax.
 
 From within **Xcode Organizer**, get access to:
 * Apple Developer links (forums, bug reporter, videos, iTunes Connect)
@@ -8,7 +8,7 @@ From within **Xcode Organizer**, get access to:
 
 ![YmsDevLinks in Xcode Organizer](http://kickingvegas.github.io/YmsDevLinks/images/ymsdevlinks.jpg)
 
-**YmsDevLinks** takes advantage of [appledoc](http://gentlebytes.com/appledoc/) to build and install your links page into Xcode.
+**YmsDevLinks** takes advantage of [appledoc](http://gentlebytes.com/appledoc/) to install your links page into **Xcode**.
 
 # Requirements
 * Xcode 4.6.x
@@ -26,7 +26,7 @@ From within **Xcode Organizer**, get access to:
 In **Organizer** change the docset search so that you only search the API versions you really [need](http://stackoverflow.com/questions/9523399/why-is-xcode-documentation-search-performance-so-terrible). 
 
 # Removal
-To delete the docset, open `Xcode preferences > Downloads > Documentation` to find and delete the installed docset.
+To delete the docset, open `Xcode Preferences > Downloads > Documentation` to find and delete the installed docset.
 
 # Notes
 To traverse back a web page in **Organizer**, use a right-mouse button click - the back button in the **Organizer** bread-crumb trail only works on docset pages.
