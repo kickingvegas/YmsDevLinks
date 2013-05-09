@@ -33,7 +33,7 @@
       <section id="main_content" class="inner">
         <h1>YmsDevLinks</h1>
 
-<p>Sometimes, you really don't need to leave Xcode to get to the web. <strong>YmsDevLinks</strong> lets you create a links page to put in <strong>Xcode Organizer</strong>. Edit your links page using Markdown syntax.</p>
+<p>Sometimes, you really don't need to leave Xcode to get to the web. <strong>YmsDevLinks</strong> lets you create your own links page in <strong>Xcode Organizer</strong>. Edit your page using Markdown syntax.</p>
 
 <p>From within <strong>Xcode Organizer</strong>, get access to:</p>
 
@@ -58,12 +58,16 @@
 <li>Edit <code>Makefile</code> to set the variables <code>PROJECT_NAME</code>, <code>COMPANY</code>, and <code>COMPANY_ID</code> to your preference.</li>
 <li>Edit <code>docs/index.md</code> using Markdown syntax to your preference.</li>
 <li>
-<p>Run <code>make</code> in the project directory to install the links docset into <em>Xcode Organizer</em>.</p>
+<p>Run <code>make</code> in the project directory to install the links docset into <strong>Xcode Organizer</strong>.</p>
 
 <pre><code> $ make
 </code></pre>
 </li>
-</ol><h1>Removal</h1>
+</ol><h1>Protip</h1>
+
+<p>In <strong>Organizer</strong> change the docset search so that you only search the API versions you really <a href="http://stackoverflow.com/questions/9523399/why-is-xcode-documentation-search-performance-so-terrible">need</a>. </p>
+
+<h1>Removal</h1>
 
 <p>To delete the docset, open <code>Xcode preferences &gt; Downloads &gt; Documentation</code> to find and delete the installed docset.</p>
 
