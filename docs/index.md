@@ -10,6 +10,7 @@
   * [Bug Reporter](http://bugreport.apple.com)
   * [Forums](https://developer.apple.com/devforums/)
   * [Videos](https://developer.apple.com/videos/)
+  * [Mailing Lists](http://lists.apple.com)
   * [Open Source](https://developer.apple.com/opensource/)
 
 * [Open Radar](http://openradar.appspot.com)
